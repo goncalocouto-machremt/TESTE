@@ -16,7 +16,7 @@ Setting up a virtualization environment with Oracle VirtualBox and Windows Serve
 - Configured a firewall rule to allow IPv4 ping.
 - Tested communication between the two servers.
 
-**Documentation:** [Lab 1 — Lab Environment Setup](lab-01.en.md)
+**Documentation:** <a href="lab-01.en.md" target="_blank">Lab 1 — Lab Environment Setup</a>
 
 **Evidence:** [Screenshots folder](prints/)
 
